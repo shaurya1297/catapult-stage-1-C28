@@ -1,2 +1,2 @@
-# catapult-stage-1-C28
-catapult stage 1 implemented
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
